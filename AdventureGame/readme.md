@@ -1,0 +1,1 @@
+This is an exercise for my Java Course in which i had to use the If statement and For While loops to develop a small multiple path game that can be played on the console about an adventure on an island.
